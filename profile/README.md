@@ -35,7 +35,7 @@ This project stands on the shoulders of open-source ecosystems such as **pymatge
 
 ---
 
-### ![contact](https://img.shields.io/badge/Contact-blue?logo=gmail&logoColor=white)
+### 📬 Contact
 
 - Maintainers: OpenLatticeLab team  
 - General enquiries: please open a GitHub Discussion or Issue in either repo.  
