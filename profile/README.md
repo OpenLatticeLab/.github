@@ -1,6 +1,6 @@
 # OpenLatticeLab
 
-> **Open materials informatics** — from crystal **Structure** to **Simulation** to **Visualisation**.
+> **Open materials informatics** - from crystal **Structure** to **Simulation** to **Visualisation**.
 
 [![Org Website](https://img.shields.io/badge/website-openlatticelab.org-1)](#)
 [![Focus](https://img.shields.io/badge/focus-materials%20analysis-blue)](#)
@@ -35,10 +35,10 @@ This project stands on the shoulders of open-source ecosystems such as **pymatge
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 - Maintainers: OpenLatticeLab team  
 - General enquiries: please open a GitHub Discussion or Issue in either repo.  
 
 ---
-*“From structure to insight — faster.”*
+*“From structure to insight - faster.”*
