@@ -10,11 +10,7 @@
 
 ## 🚀 What we build
 
-- **lattice-lab** — *Interactive web interface*  
-  👉 https://github.com/OpenLatticeLab/lattice-lab
-
-- **lattice-api** — *Backend for lattice-lab*  
-  👉 https://github.com/OpenLatticeLab/lattice-api
+An AI-driven platform that simplifies and automates materials science research
 
 ---
 
